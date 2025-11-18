@@ -9,6 +9,8 @@ public class Main {
         System.out.println("Fifth commit");
 
         System.out.println("Sixth commit");
+
+        System.out.println("Seventh commit");
     }
 
 }
