@@ -13,6 +13,8 @@ public class Main {
         System.out.println("Seventh commit");
 
         System.out.println("Eighth commit");
+
+        System.out.println("Ninth commit");
     }
 
 }
